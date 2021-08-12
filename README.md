@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/DANUSHRAJ/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhuzixuan1%2FTF_2.0&psig=AOvVaw328DHRueyDRTMKovFSaSRH&ust=1628837296882000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC4z_bxqvICFQAAAAAdAAAAABAY" target="_blank"> <img align="left" alt="Tensorflow" width="26px" src="https://github.com/DANUSHRAJ/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+![tf](https://user-images.githubusercontent.com/60309916/129151118-b85301ce-bcca-4e2d-933e-ca5853f67723.gif)
 <img align="left" alt="GitHub" width="26px" src="https://github.com/DANUSHRAJ/trying-repos/blob/master/github.svg" />
 <br />
 <br />
