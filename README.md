@@ -3,6 +3,12 @@
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANUSHRAJ&layout=compact)](https://github.com/DANUSHRAJ/github-readme-stats)
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+---
+
 - 👀 I’m interested in AI and CV...
 - 🌱 I’m currently learning B.tech IT...
 - 💞️ I’m looking to collaborate on Deep learning and Computer vision projects...
