@@ -10,8 +10,7 @@
 ---
 ### Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/DANUSHRAJ/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-![tf](https://user-images.githubusercontent.com/60309916/129151118-b85301ce-bcca-4e2d-933e-ca5853f67723.gif)
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="![tf](https://user-images.githubusercontent.com/60309916/129151118-b85301ce-bcca-4e2d-933e-ca5853f67723.gif)"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/DANUSHRAJ/trying-repos/blob/master/github.svg" />
 <br />
 <br />
