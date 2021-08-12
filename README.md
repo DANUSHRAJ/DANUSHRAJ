@@ -1,4 +1,9 @@
 - 👋 Hi, I’m DANUSHRAJ,I love to code and cook...
+
+<a  href="https://github.com/SP-XD">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="Hello Coders" width="625"/> <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  
+  
 - ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DANUSHRAJ&show_icons=true&theme=synthwave)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANUSHRAJ&layout=compact)](https://github.com/DANUSHRAJ/github-readme-stats)
