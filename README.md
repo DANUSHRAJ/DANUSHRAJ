@@ -11,6 +11,9 @@
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
 
 - 👀 I’m interested in AI and CV...
 - 🌱 I’m currently learning B.tech IT...
