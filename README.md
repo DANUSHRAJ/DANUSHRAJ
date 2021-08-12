@@ -1,7 +1,8 @@
-- 👋 Hi, I’m DANUSHRAJ,I love to code and cook...
+- <h2><b>👋 Hi, I’m DANUSHRAJ</b><h2>
+  <h3><i>I love to code and cook...</i></h3>
 
-<a  href="https://github.com/SP-XD">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" alt="CoDiNg RocKs"  width="650"/> </a>  
+<a  href="https://github.com/DANUSHRAJ">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" alt="CoDiNg RocKs"  width="400"/> </a>  
   
 - ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DANUSHRAJ&show_icons=true&theme=synthwave)
 
@@ -20,9 +21,14 @@
 <a href="https://www.mediapipe.org/" target="_blank"> <img align="left" alt="Mediapipe" width="40px" src="https://google.github.io/mediapipe/images/mediapipe_small.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
-<br />
 
-- 👀 I’m interested in AI and CV...
+### Reach me here❤
+<img align="left" alt="GMAIL" width="40px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png"/><H3><b>mldanushraj2001@gmail.com</b></H3>
+<br>
+<a href="https://www.linkedin.com/in/danushrajm22102001" target="_blank"> <img align="left" alt="LINKEDIN" width="40px" src="https://www.searchpng.com/wp-content/uploads/2019/03/Linkedin-Splash-715x715.png"/> </a>
+<br>
+### 👀 I’m interested in 
+  AI and CV...
 - 🌱 I’m currently learning B.tech IT...
 - 💞️ I’m looking to collaborate on Deep learning and Computer vision projects...
 - 📫 How to reach me MAIL:mldanushraj2001@gmail.com...
