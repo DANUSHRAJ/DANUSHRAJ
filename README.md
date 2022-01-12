@@ -20,6 +20,7 @@
 
 <a href="https://www.mediapipe.org/" target="_blank"> <img align="left" alt="Mediapipe" width="40px" src="https://google.github.io/mediapipe/images/mediapipe_small.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+  <img align="left" alt="Flutter❤️" width="26px" src="![image](https://user-images.githubusercontent.com/60309916/149070057-0bc98b28-e22e-43b8-b12f-12b7530600e2.png)" />
 <br />
 
 ### Reach me here❤
@@ -30,5 +31,5 @@
 
 <!---
 DANUSHRAJ/DANUSHRAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.❤️
 --->
