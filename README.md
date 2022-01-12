@@ -18,8 +18,8 @@
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" alt="Tensorflow" width="26px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/> </a>
 
-<a href="https://www.mediapipe.org/" target="_blank"> <img align="left" alt="Mediapipe" width="40px" src="https://google.github.io/mediapipe/images/mediapipe_small.png"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.mediapipe.org/" target="_blank"> <img align="left" alt="Mediapipe" width="40px" src="https://mediapipe.dev/assets/img/brand.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
   <img align="left" alt="Flutter❤️" width="50px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" />
 <br />
 
