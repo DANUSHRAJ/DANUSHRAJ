@@ -20,7 +20,7 @@
 
 <a href="https://www.mediapipe.org/" target="_blank"> <img align="left" alt="Mediapipe" width="40px" src="https://google.github.io/mediapipe/images/mediapipe_small.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-  <img align="left" alt="Flutter❤️" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" />
+  <img align="left" alt="Flutter❤️" width="35px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" />
 <br />
 
 ### Reach me here❤
