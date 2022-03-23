@@ -2,7 +2,7 @@
   <h3><i>ABOUT ME</i></h3>
   <h3><i>I love to code and cook...</i></h3>
   <h3><i>🌱 I’m currently giving human intelligence to Machines...</i></h3>
-  <h3><i>💞️ I’m looking to collaborate on Deep learning <img src="https://cdn.dribbble.com/users/1373613/screenshots/5551642/___-1.gif" align="center" width="90"/> and Computer vision projects...<img src="https://lucenaresearch.com/wp-content/uploads/2020/04/unnamed-3.gif" align="center" width="90"/></i></h3>
+  <h3><i>💞️ I’m looking Forward to collaborate on Deep learning <img src="https://cdn.dribbble.com/users/1373613/screenshots/5551642/___-1.gif" align="center" width="90"/> , Computer vision projects...<img src="https://lucenaresearch.com/wp-content/uploads/2020/04/unnamed-3.gif" align="center" width="90"/> , Mobile ,Web , Desktop Application (Flutter/Dart/C++) </i></h3>
 - ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DANUSHRAJ&show_icons=true&theme=synthwave)
 
 
