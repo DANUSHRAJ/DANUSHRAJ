@@ -1,4 +1,5 @@
-- <h2><b>👋 Hi, I’m DANUSHRAJ</b><h2>
+![Purple Yellow Modern Gaming Linkedin Banner](https://user-images.githubusercontent.com/60309916/172876702-102cb1a1-79d6-424e-91b1-2e6173f074e3.png)
+
 <p align="center"><img src="https://user-images.githubusercontent.com/60309916/172863575-0264594b-dd40-4ea9-aa0a-72153f2e1120.png"></p>
   
 <h3><i>ABOUT ME</i></h3>
