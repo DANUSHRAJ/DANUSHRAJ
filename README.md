@@ -1,8 +1,10 @@
 - <h2><b>👋 Hi, I’m DANUSHRAJ</b><h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/60309916/172863575-0264594b-dd40-4ea9-aa0a-72153f2e1120.png"></p>
+
   <h3><i>ABOUT ME</i></h3>
   <h3><i>I love to code and cook...</i></h3>
   <h3><i>🌱 I’m currently giving human intelligence to Machines...</i></h3>
-  <h3><i>💞️ I’m looking Forward to collaborate on Deep learning <img src="https://cdn.dribbble.com/users/1373613/screenshots/5551642/___-1.gif" align="center" width="90"/> , Computer vision projects...<img src="https://lucenaresearch.com/wp-content/uploads/2020/04/unnamed-3.gif" align="center" width="90"/> , Mobile ,Web , Desktop Application (Flutter/Dart/C++) </i></h3>
+  <h3><i>💞️ I’m looking Forward to collaborate on Deep learning , Computer vision projects..., Mobile ,Web , Desktop Application (Flutter/Dart/C++) </i></h3>
 - ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DANUSHRAJ&show_icons=true&theme=synthwave)
 
 
